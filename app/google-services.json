@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "1066822651894",
+        "project_id": "mobile-estates",
+        "storage_bucket": "mobile-estates.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1066822651894:android:85ce6a17620809f901c1d7",
+                "android_client_info": {
+                    "package_name": "overview"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1066822651894-tql0m34kag9uja89kpdri2mf2759kjug.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAERw6EAS_ecMBdzFLWI0fcS_fuTGQl8eI"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1066822651894-tql0m34kag9uja89kpdri2mf2759kjug.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
